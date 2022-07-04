@@ -2,15 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*
 *main - Prints a text according number
 *
 *Return: Always return 0
-*
 */
 int main(void)
 {
-int n;
 int lastn;
 srand(time(0));
 n = rand() - RAND_MAX / 2;
