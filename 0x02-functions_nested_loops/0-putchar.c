@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
-*main - Print putchar
-*Return : Always return 0
-*/
+ *main - Print putchar
+ *Discription: 'the program's description'
+ *Return: Always return 0
+ */
 int main(void)
 {
 	_putchar('_');
