@@ -2,9 +2,10 @@
 
 /**
  * main - check the code
- * Description: I play with all the alphabets
- * Print alphabet -> prints loweer case alphabets
- * Return: Always 0 (success)
+ *
+ * Description: I play with all the alphabets and prints in lower case alphabets
+ *
+ * Return: Always 0
  */
 void print_alphabet(void)
 {
@@ -12,7 +13,7 @@ void print_alphabet(void)
 
 	for (j = 'a'; j <= 'z'; j++)
 	{
-	_putchar(c);
+	_putchar(j);
 	}
 	_putchar('\n');
 }
