@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet -> print alphabet in lower cases
- * Description: I play with all the alphabets and prints in lower case alphabets
+ * _putchar: you can only use it twice
  * Return: Always 0
  */
 
