@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * main - a function that prints 10 times the alphabet, in lowercase
  * print_alphabet_x10 -> print 10 times the alphabet
- * Description: as above
+ * _putchar: is only used twice
  * Return: always return 0
  */
 
