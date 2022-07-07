@@ -18,7 +18,7 @@ int x, y, d;
 	}
 	for (y = 0; y < 10; y++)
 	{
-	d = (x * Y);
+	d = (x * y);
 	if ((d / 10) > 0)
 	{
 	_putchar((d / 10) + '0');
@@ -27,7 +27,7 @@ int x, y, d;
 	{
 	_putchar(' ');
 	}
-	_putchar(d % 10) + '0';
+	_putchar((d % 10) + '0');
 	if (y > 0)
 	{
 	_putchar(',');
