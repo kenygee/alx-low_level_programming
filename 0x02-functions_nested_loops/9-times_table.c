@@ -25,7 +25,6 @@ int x, y, d;
 	for (d = 0; d < 10; d++)
 	{
 	d = (x * y);
-	}
 	if ((d / 10) > 0)
 	{
 	_putchar((d / 10) + '0');
@@ -33,8 +32,8 @@ int x, y, d;
 	else
 	{
 	_putchar(' ');
-	}
 	_putchar((d % 10) + '0');
+	}
 	if (y > 0)
 	{
 	_putchar(',');
