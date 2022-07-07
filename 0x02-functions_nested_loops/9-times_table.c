@@ -33,6 +33,6 @@ int x, y, d;
 	_putchar(',');
 	_putchar(' ');
 	}
-	}
 	_putchar('\n');
+	}
 }
