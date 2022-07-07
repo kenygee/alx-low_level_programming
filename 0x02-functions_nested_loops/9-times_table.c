@@ -18,7 +18,14 @@ int x, y, d;
 	}
 	for (y = 0; y < 10; y++)
 	{
+	_putchar('0');
+	_putchar(',');
+	_putchar(' ');
+	}
+	for (d = 0; d < 10; d++)
+	{
 	d = (x * y);
+	}
 	if ((d / 10) > 0)
 	{
 	_putchar((d / 10) + '0');
