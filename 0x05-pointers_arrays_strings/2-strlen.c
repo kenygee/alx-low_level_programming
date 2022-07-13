@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- *_strlen: a funtion that will print a lenghty stings
+ *_strlen -> a funtion that will print a lenghty stings
  *@s: the string parameter to be printed
  *Return: lenght of a string
  */
