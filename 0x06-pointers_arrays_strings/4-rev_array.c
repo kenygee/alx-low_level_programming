@@ -5,7 +5,6 @@
  * reverse_array -> a function that reverse array
  * @a: param1
  * @n: param2
- * Return: array compared
  */
 
 void reverse_array(int *a, int n)
@@ -16,5 +15,10 @@ void reverse_array(int *a, int n)
 	for (i = 0; i < n; i++)
 		p++;
 	for (k = 0; i < n / 2; k++)
-		p--;
+	{
+	aux = a[k];
+	a[k] = *p;
+	*p = aux;
+	p--;
+	}
 }
