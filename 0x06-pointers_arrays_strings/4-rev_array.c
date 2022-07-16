@@ -10,9 +10,11 @@
 
 void reverse_array(int *a, int n)
 {
-	reverse_array(a, n);
-	int result;
+	int *p, i, aux, k;
 
-	result = reverse_array;
-	return (result);
+	p = a;
+	for (i = 0; i < n; i++)
+		p++;
+	for (k = 0; i < n / 2; k++)
+		p--;
 }
