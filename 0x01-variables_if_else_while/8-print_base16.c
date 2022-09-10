@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-#include <stdlb.h>
+
 /**
  * main - Prints a hexadecimal string
  * Return: Always (Success)
