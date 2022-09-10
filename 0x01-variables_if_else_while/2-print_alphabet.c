@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlb.h>
 #include <time.h>
 /**
  * main - Prints the alphabetic
@@ -8,7 +7,6 @@
 int main(void)
 {
 char c;
-
 for (c = 'a'; c <= 'z'; c++)
 putchar(c);
 putchar('\n');
