@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <time.h>
-#include <stdlb.h>
-/*
-* main - Prints some letters of alphabet
-*
-* Return: Always return 0
-*/
+
+/**
+ * main - Prints some letters of alphabet
+ * Return: Always return 0
+ */
+
 int main(void)
 char c;
 {
