@@ -2,7 +2,8 @@
 
 /**
  * _abs -> it compute the absolute value of integer
- * @n: delcares the integer
+ * @n: declears the integer
+ *
  * Return: absolute value of a number
  */
 
