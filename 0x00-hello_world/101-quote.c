@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <time.h>
-#include <stdlb.h>
 
 /**
 *main - print that piece of art is useful, Dora Korpar, 2015-10-19
