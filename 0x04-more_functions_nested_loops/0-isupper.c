@@ -1,4 +1,6 @@
 #include <main.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 /**
  *_isupper - it check for upper case
