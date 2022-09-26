@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio.h>
+
 
 /**
  *_memcpy - A function that copy a memory area from src to dest.
